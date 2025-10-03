@@ -15,3 +15,17 @@ A sleek, intuitive desktop To-Do List application built with PyQt5. This app let
 - 💾 Persistent task storage using tasks.txt
 
 - 🎨 Stylish UI with custom fonts, colors, and layout
+
+---
+
+## 🖼️ Preview
+<img width="1920" height="1140" alt="To-Do List app Output" src="https://github.com/user-attachments/assets/85c999c6-b940-48ba-9a8c-22e29596116a" />
+
+---
+
+## 🛠️ Technologies used
+- **Python 3**
+- **PyQt5** (for GUI)
+
+---
+
