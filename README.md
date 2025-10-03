@@ -46,3 +46,23 @@ pip install PyQt5
 ```bash
 python to-do-list.py
 ```
+
+---
+
+## 💡 Usage Tips
+1. Press Enter after typing a task to add it quickly.
+2. Double-click a task to toggle its completion status.
+3. All tasks are saved automatically to tasks.txt on every change.
+
+---
+
+
+## 🧠 Design Highlights
+1. Built with QMainWindow, QVBoxLayout, QListWidget, and custom-styled QPushButtons.
+2. Uses QFont.strikeOut() to visually mark completed tasks.
+3. Clean separation of UI setup and event logic.
+
+---
+
+## 🙌 Contributing
+Pull requests are welcome! If you have ideas for enhancements or UI improvements, feel free to fork and submit a PR.
