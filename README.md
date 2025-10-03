@@ -5,15 +5,10 @@ A sleek, intuitive desktop To-Do List application built with PyQt5. This app let
 
 ## 🚀 Features
 - ✅ Add new tasks with a single click or press Enter
-
 - ✏️ Double-click tasks to mark them as complete (strike-through effect)
-
 - 🗑️ Delete selected tasks instantly
-
 - 🧹 Clear all tasks with one button
-
 - 💾 Persistent task storage using tasks.txt
-
 - 🎨 Stylish UI with custom fonts, colors, and layout
 
 ---
@@ -36,7 +31,7 @@ git clone https://github.com/codewithvikas96-ui/PyQt5-to-do-list_app.git
 ```
 2. Navigate to the project folder:
 ```bash
-cd to-do-list
+cd PyQt5-to-do-list_app
 ```
 3. Install dependencies (if not already installed):
 ```bash
