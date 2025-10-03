@@ -29,3 +29,20 @@ A sleek, intuitive desktop To-Do List application built with PyQt5. This app let
 
 ---
 
+## 🚀 Installation & Usage
+1. Clone this repository:
+```bash
+git clone https://github.com/codewithvikas96-ui/PyQt5-to-do-list_app.git
+```
+2. Navigate to the project folder:
+```bash
+cd to-do-list
+```
+3. Install dependencies (if not already installed):
+```bash
+pip install PyQt5
+```
+4. Run the application:
+```bash
+python to-do-list.py
+```
