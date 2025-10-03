@@ -3,7 +3,7 @@ A sleek, intuitive desktop To-Do List application built with PyQt5. This app let
 
 ---
 
-##🚀 Features
+## 🚀 Features
 - ✅ Add new tasks with a single click or press Enter
 
 - ✏️ Double-click tasks to mark them as complete (strike-through effect)
